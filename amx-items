@@ -1,0 +1,20 @@
+
+;; ----- amx-history -----
+(
+ package-list-packages
+ customize-group
+ package-install
+ customize-face-other-window
+ customize-face
+ cd
+ 5x5
+)
+
+;; ----- amx-data -----
+(
+ (customize-face . 2)
+ (customize-face-other-window . 1)
+ (package-install . 3)
+ (customize-group . 2)
+ (package-list-packages . 1)
+)
