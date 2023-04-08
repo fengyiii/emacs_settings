@@ -1,0 +1,35 @@
+(undo-tree-save-format-version . 1)
+"9c7fa7e08ff4e7e1dd721d895d968c92f01edcb7"
+[nil nil nil nil (25648 12858 15443 352000) 0 nil]
+([nil nil ((2474 . 2713) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -2474) (2471 . 2473) (#("
+" 0 1 (fontified nil)) . -2471) (2136 . 2472) (#(" " 0 1 (fontified nil)) . 2136) (2106 . 2137) (#("
+" 0 1 (fontified nil)) . -2106) (2025 . 2107) (#(" " 0 1 (fontified nil)) . 2025) (1759 . 2026) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(custom-safe-themes
+   (quote
+    (\"3c83b3676d796422704082049fc38b6966bcad960f896669dfc21a7a37a748fa\" default))))" 0 360 (fontified nil)) . -1759) (t 25644 14899 37674 576000)) nil (25648 12858 15435 935000) 0 nil])
+([nil current ((2484 . 2723) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -2484) (2481 . 2483) (#("
+" 0 1 (fontified nil)) . -2481) (2136 . 2482) (#(" " 0 1 (fontified nil)) . 2136) (2106 . 2137) (#("
+" 0 1 (fontified nil)) . -2106) (2025 . 2107) (#(" " 0 1 (fontified nil)) . 2025) (1759 . 2026) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(custom-safe-themes
+   '(\"3c83b3676d796422704082049fc38b6966bcad960f896669dfc21a7a37a748fa\" default))
+ '(package-selected-packages
+   '(org-download yasnippet-snippets which-key use-package-hydra undo-tree treemacs-projectile smart-mode-line rainbow-delimiters pdf-tools mwim multiple-cursors marginalia magit lsp-ui highlight-symbol flycheck ewal-doom-themes embark dracula-theme dashboard dap-mode counsel-projectile company-tabnine company-box amx all-the-icons)))" 0 714 (fontified nil)) . -1759) (t 25648 12858 16809 394000)) nil (25648 12911 589655 203000) 0 nil])
+nil

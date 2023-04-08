@@ -1,9 +1,9 @@
 
 ;; ----- amx-history -----
 (
+ package-install
  package-list-packages
  customize-group
- package-install
  customize-face-other-window
  customize-face
  cd
@@ -14,7 +14,9 @@
 (
  (customize-face . 2)
  (customize-face-other-window . 1)
- (package-install . 3)
+ (package-install . 6)
  (customize-group . 2)
  (package-list-packages . 1)
+ (company-tabnine-install-binary . 2)
+ (org-download-clipboard . 1)
 )

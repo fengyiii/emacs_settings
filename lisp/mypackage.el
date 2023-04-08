@@ -383,9 +383,14 @@ _Q_: Disconnect     _sl_: List locals        _bl_: Set log message
   ("C-c C-w" . pdf-view-kill-rmn-ring-save))
 
 
-
-
-
+(use-package org-download
+  :ensure t
+  :defer t
+  :bind (("C-S-y" . org-download-screenshot)
+	 ("C-S-p" . org-download-clipboard))
+  :config
+  (setq-default org-download-image-dir "./IMG/")
+  (add-hook 'dired-mode-hook 'org-download-enable))
 
 
 (provide 'mypackage)
